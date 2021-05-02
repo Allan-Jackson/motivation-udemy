@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Ripple significa ondular -->
+
+<!-- color do ripple define a cor do efeito "ripple" -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/accentColor">
+
+    <!-- drawable do item define a cor de fundo do elemento -->
+    <item android:drawable="?attr/colorPrimary"/>
+</ripple>
